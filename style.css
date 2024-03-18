@@ -41,7 +41,7 @@ html,body{
 #workingArea{
     position: relative;
     margin: 0 auto;
-    width: 80%;
+    width: 85%;
     height: 100vh;
     max-width: 1920px;
     /* border: 1px solid red; */
@@ -101,7 +101,7 @@ html,body{
 }
 
 #hero-right {
-    min-width: 25%;
+    min-width: 30%;
     
     
 }
@@ -115,7 +115,8 @@ html,body{
     background-color: rgb(187, 106, 200); */
 }
 #hero-right .elem h1{
- font-family: "kajiro";
+/*  font-family: "kajiro"; */
+    font-family: "Stint Ultra Condensed", serif;
  color: #000000;
  font-weight: 100;
  font-size: 6vw;
@@ -134,7 +135,7 @@ html,body{
     margin-top: 1vw;
     padding: .5vw 3vw;
     font-size: 2.75vw;
-    font-family: "kajiro";
+   font-family: "Stint Ultra Condensed", serif;
 }
 #hero-left p{
     /* margin-bottom: 50px; */
